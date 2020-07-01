@@ -1,5 +1,5 @@
 # Kaggle
-## Data Analysis
+## Data Analysis?
 
 Data analysis refers to a process of processing given data to obtain the desired information and conclusions.
 
@@ -44,7 +44,5 @@ This is a step to implement hypothesis or obtain desired information by calculat
 <br>
 
 Visualization is also used to effectively show the information obtained.
-
-<br>
 
 <br>
