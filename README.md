@@ -1,4 +1,4 @@
-# Kaggle
+# Kaggle-Dacon
 ## Data Analysis
 
 Data analysis refers to a process of processing given data to obtain the desired information and conclusions.
